@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Nabiel Andityo 👋
 
 <p align="left"> 
-  I'm a passionate developer from Indonesia with a focus on back-end development. I enjoy building web applications and exploring new technologies. Currently, I'm diving deeper into cloud infrastructure and DevOps practices.
+  I'm a passionate developer from Indonesia with a focus on back-end development. I enjoy building web applications and exploring new technologies. Currently, I'm diving deeper into fields of software engineering, cloud infrastructure, and DevOps practices.
 </p>
 
 ---
