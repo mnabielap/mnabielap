@@ -21,6 +21,12 @@ Here are some of the boilerplates I've built:
 - [**https://github.com/mnabielap/starter-kit-restapi-dotnetcore**](https://github.com/mnabielap/starter-kit-restapi-dotnetcore) - Boilerplate Rest API Dotnetcore 8.
 - [**https://github.com/mnabielap/starter-kit-restapi-nest**](https://github.com/mnabielap/starter-kit-restapi-nest) - Boilerplate Rest API NestJS.
 
+### ☁️ Cloud Infrastructure
+
+I also explore cloud-native technologies and Infrastructure as Code (IaC) to build scalable and resilient systems.
+
+- [**https://github.com/mnabielap/terraform-eks-go-httpbin**](https://github.com/mnabielap/terraform-eks-go-httpbin) - AWS EKS Provisioning using Terraform with Go HTTPBin implementation.
+
 ---
 
 ### 📊 My GitHub Stats
