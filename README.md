@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ High-Performance Starter Kits
+### 🛠️ Starter Kits
 
 I also create optimized **starter kits and boilerplates** across various languages and frameworks. These projects are engineered with a focus on **coding best practices** and **high performance** to help developers kickstart their projects efficiently.
 
@@ -25,9 +25,6 @@ Here are some of the boilerplates I've built:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/mnabielap">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mnabielap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Nabiel's GitHub Stats" />
-  </a>
   <a href="https://github.com/mnabielap">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnabielap&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
