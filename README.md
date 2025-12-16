@@ -22,6 +22,7 @@ Here are some of the boilerplates I've built:
 - [**https://github.com/mnabielap/starter-kit-restapi-dotnetcore**](https://github.com/mnabielap/starter-kit-restapi-dotnetcore) - Boilerplate Rest API Dotnetcore 8.
 - [**https://github.com/mnabielap/starter-kit-restapi-nest**](https://github.com/mnabielap/starter-kit-restapi-nest) - Boilerplate Rest API NestJS.
 - [**https://github.com/mnabielap/starter-kit-restapi-fastapi**](https://github.com/mnabielap/starter-kit-restapi-fastapi) - Boilerplate Rest API FastAPI.
+- [**https://github.com/mnabielap/starter-kit-restapi-express-nosql**](https://github.com/mnabielap/starter-kit-restapi-express-nosql) - Boilerplate Rest API Express NoSQL MongoDB.
 
 ### ☁️ Cloud Infrastructure
 
