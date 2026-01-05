@@ -14,6 +14,7 @@ Here are some of the boilerplates I've built:
 
 - [**https://github.com/mnabielap/starter-kit-restapi-springboot**](https://github.com/mnabielap/starter-kit-restapi-springboot) - Boilerplate Rest API Springboot
 - [**https://github.com/mnabielap/starter-kit-restapi-gonethttp**](https://github.com/mnabielap/starter-kit-restapi-gonethttp) - Boilerplate Rest API Go net/http (no-framework).
+- [**https://github.com/mnabielap/starter-kit-grpc-golang**](https://github.com/mnabielap/starter-kit-grpc-golang) - Boilerplate GRPC Go with grpc-gateway.
 - [**https://github.com/mnabielap/starter-kit-restapi-gofiber**](https://github.com/mnabielap/starter-kit-restapi-gofiber) - Boilerplate Rest API Go fiber.
 - [**https://github.com/mnabielap/starter-kit-restapi-gofasthttp**](https://github.com/mnabielap/starter-kit-restapi-gofasthttp) - Boilerplate Rest API Go fasthttp (no-framework).
 - [**https://github.com/mnabielap/starter-kit-restapi-axum**](https://github.com/mnabielap/starter-kit-restapi-axum) - Boilerplate Rest API Rust Axum.
